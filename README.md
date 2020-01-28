@@ -1,10 +1,10 @@
-# ALL OF THE THINGS
+# Data 150, 2020 First Semester
 
 ### Table of Contents
 
 ### Reading Responses:
 
-[Blumenstock Article](https://github.com/FreakinSweet/Data150/blob/master/Blumenstock.md)
+Jan 28 - [Blumenstock Article](https://github.com/FreakinSweet/Data150/blob/master/Blumenstock.md)
 
 ### Assignments
 
