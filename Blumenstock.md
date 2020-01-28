@@ -11,11 +11,11 @@ To ensure that as few incorrect conclusions are come to as a result of the new b
 
 ### Q2: "How do you respond to these ideas regarding “good intent”, “transparency” and the difficult “balancing act” when considering the intersection of human development with data science?"
 
-“Good intent is not enough in data science when dealing with the problems which determine people’s experiences” Anna Raymond
+###### “Good intent is not enough in data science when dealing with the problems which determine people’s experiences” Anna Raymond
 
-“Transparency is the underlying issue to many of these problems, so an increase in this on both ends (data based issues & human based issues) could lead to better results” Nira Nair
+###### “Transparency is the underlying issue to many of these problems, so an increase in this on both ends (data based issues & human based issues) could lead to better results” Nira Nair
 
-“In lieu of such drastic potential for promoting applications yet demoralizing hinderances, the balancing act can become difficult.” Kayla Seggelke
+###### “In lieu of such drastic potential for promoting applications yet demoralizing hinderances, the balancing act can become difficult.” Kayla Seggelke
 
 ##### A1: 
 In response to Anna: I couldn't agree more. This makes me think of Facebook, Youtube, Twitter. When they say that their algorithms are biased, and proceed to modify them, this raises a problem of trust: Was the original algorithm just fine and well, and are then then manipulating it to their advantage or for some sick puropose? Or is it true what they say? They may only modify the algorithms in the best interest of them as a business, but is that for the common good as well?
