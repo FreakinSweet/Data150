@@ -17,7 +17,7 @@ To ensure that as few incorrect conclusions are come to as a result of the new b
 
 ###### “In lieu of such drastic potential for promoting applications yet demoralizing hinderances, the balancing act can become difficult.” Kayla Seggelke
 
-##### A1: 
+##### A2: 
 In response to Anna: I couldn't agree more. This makes me think of Facebook, Youtube, Twitter. When they say that their algorithms are biased, and proceed to modify them, this raises a problem of trust: Was the original algorithm just fine and well, and are then then manipulating it to their advantage or for some sick puropose? Or is it true what they say? They may only modify the algorithms in the best interest of them as a business, but is that for the common good as well?
 
 In response to Nira: This ties right into my response to Anna - its mostly an issue of trust. Transparency is beneficial for the common man, as he can better trust these big data companies, willingly letting them use his cellular data for great things. This isn't so beneficial for the company, however, because revealing how their machine learning algorithms work, and revealing the underlying code; this shuts a path for profit for that business. 
