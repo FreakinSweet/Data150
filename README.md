@@ -4,7 +4,7 @@
 
 ### Reading Responses:
 
-Jan 28 - [Blumenstock Article](https://freakinsweet.github.io/Data150/Blumenstock.md)
+Jan 28/30 - [Blumenstock Article](https://freakinsweet.github.io/Data150/Blumenstock)
 
 
 
