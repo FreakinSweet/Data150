@@ -6,7 +6,7 @@
 
 Jan 28/30 - [Blumenstock Article](https://freakinsweet.github.io/Data150/Blumenstock)
 
-
+Feb 2 - [Jahan Podcast/Rosling TED Talk](https://freakinsweet.github.io/Data150/Jahan-Rosling)
 
 
 
