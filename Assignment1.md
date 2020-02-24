@@ -1,9 +1,7 @@
 # BOLIVIA - Poverty, Instability, Issues in Human Development
 
-2000 words min, 5 sources min 
 
-
-
+Problem Statement:
 __Bolivia has poverty, the most out of all South America. Why does it, and how can it be improved to enable freedom there?__
 
 
