@@ -8,7 +8,7 @@ Jan 28/30 - [Blumenstock Article](https://freakinsweet.github.io/Data150/Blumens
 
 Feb 2 - [Jahan Podcast/Rosling TED Talk](https://freakinsweet.github.io/Data150/Jahan-Rosling)
 
-
+Feb 23 - [Assignment 1](https://freakinsweet.github.io/Data150/Assignment1)
 
 
 
