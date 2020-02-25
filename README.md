@@ -10,7 +10,7 @@ Feb 2 - [Jahan Podcast/Rosling TED Talk](https://freakinsweet.github.io/Data150/
 
 Feb 23 - [Assignment 1](https://freakinsweet.github.io/Data150/Assignment1)
 
-Feb 25 - [Response to Anderson and Kitchen](https://freakinsweet.github.io/Data150/ResponsetoAndersonandKitchen.md)
+Feb 25 - [Response to Anderson and Kitchen](https://freakinsweet.github.io/Data150/ResponsetoAndersonandKitchen)
 
 
 
