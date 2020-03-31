@@ -14,6 +14,8 @@ Feb 25 - [Response to Anderson and Kitchen](https://freakinsweet.github.io/Data1
 
 March 26 - [Response to Stevens](https://freakinsweet.github.io/Data150/Stevens)
 
+March 31 - [Response to Nieves](https://freakinsweet.github.io/Data150/Nieves)
+
 
 
 ### Assignments:
