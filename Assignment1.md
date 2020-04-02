@@ -72,7 +72,7 @@ This only just touches on the topics this book explores, I should explore it fur
 
 ###### Pellegrini, L., (2011). Forest Management and Poverty in Bolivia, Honduras and Nicaragua: Reform Failures?
 
-[PDF of Paper](https://repub.eur.nl/pub/22226/article resubmission EJDR Pellegrini.pdf) 
+[PDF of Paper](https://repub.eur.nl/pub/22226/article%20resubmission%20EJDR%20Pellegrini.pdf) 
 
 __NOTE__: For the sake of their irrelevance, I won't both mentioning Honduras or Nicaragua unless they are necessary for comparison to Bolivia
 
