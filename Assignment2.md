@@ -30,7 +30,7 @@ talk about knowledge thus far, a gap (no cell data), draft proposed central rese
 
 ## References
 
-[1] Vargas, M. M. (2015). *Explaining Inequality and Poverty Reduction in Bolivia*. S.l.: INTERNATIONAL MONETARY FUND. https://www.imf.org/external/pubs/ft/wp/2015/wp15265.pdf
+[1] Vargas, M. M. (2015). *Explaining Inequality and Poverty Reduction in Bolivia*. S.l.: INTERNATIONAL MONETARY FUND. [https://www.imf.org/external/pubs/ft/wp/2015/wp15265.pdf]
 
 [2] Mercado, A. F., & Leiton-Quiroga, J. G. M. (2009). *The Dynamics of Poverty in Bolivia*. http://www.scielo.org.bo/pdf/rlde/n11/n11_a03.pdf
 
