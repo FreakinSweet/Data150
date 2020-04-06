@@ -1,4 +1,4 @@
-#### __Using Survey Data and Remotely-Sensed Data__ to __Evaluate the Expansion of Sustainable Forestry as a Means to Alleviating Poverty__ throughout __Bolivia__
+## __Using Survey Data and Remotely-Sensed Data__ to __Evaluate the Expansion of Sustainable Forestry as a Means to Alleviating Poverty__ throughout __Bolivia__
 
 by Shane Evanson
 
@@ -28,7 +28,7 @@ talk about the RS and survey data
 
 talk about knowledge thus far, a gap (no cell data), draft proposed central research question
 
-#### References
+## References
 
 [1] Vargas, M. M. (2015). *Explaining Inequality and Poverty Reduction in Bolivia*. S.l.: INTERNATIONAL MONETARY FUND. https://www.imf.org/external/pubs/ft/wp/2015/wp15265.pdf
 
