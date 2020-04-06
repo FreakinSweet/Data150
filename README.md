@@ -21,3 +21,5 @@ March 31 - [Response to Nieves](https://freakinsweet.github.io/Data150/Nieves)
 ### Assignments:
 
 Feb 23 - [Assignment 1](https://freakinsweet.github.io/Data150/Assignment1)
+
+Apr 5 - [Assignment 2](https://freakinsweet.github.io/Data150/Assignment2)
