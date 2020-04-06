@@ -1,4 +1,4 @@
-#### <u>Using Survey Data and Remotely-Sensed Data</u> to <u>Evaluate the Expansion of Sustainable Forestry as a Means to Alleviating Poverty</u> throughout <u>Bolivia</u>
+## <u>Using Survey Data and Remotely-Sensed Data</u> to <u>Evaluate the Expansion of Sustainable Forestry as a Means to Alleviating Poverty</u> throughout <u>Bolivia</u>
 
 by Shane Evanson
 
