@@ -38,7 +38,7 @@ __Figure 2__ (Image cropped form original) [4]
 
 Map of field size in regions of deforestation, 2000-2001
 
-![](saFieldSize.png)
+![](saFieldSize.PNG)
 
 ​	Looking at the case in Bolivia, much of the issue of deforestation has been from a distinct lack of proper environmental regulations. Soybeans have been a major crop in Bolivia, and its production has been incentivized by the government since the 1980s [8]. The byproduct of this is the expansion of agriculture into forested areas. Large-scale mechanized farms aligned with forest protection boundaries set by the Bolivian government, but unfortunately "compliance  with  land  use  restrictions was considerably lower for small-scale agriculture" [8]. Historically, Bolivia has had issues with land claims and property laws, making it difficult for small-scale farmers to comply with forest regulations.
 
