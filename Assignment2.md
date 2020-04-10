@@ -30,7 +30,7 @@ __Figure 1__ [4]
 
 Follow-up land use after deforestation as a % of national deforestation, 1990-2005
 
-![DeforestationDrivers](C:\Users\sevan\Desktop\DeforestationDrivers.png)
+![](deforestationDrivers.png)
 
 ​	Provided by De Sy *et al*, Figure 1 illustrates the complexity of the situation. Predominantly, forest loss has been caused by the expansion of sugarcane and soybean farms into present pastureland, forcing pastures further into the Amazon [1]. However, in Venezuela great forest loss was caused by the construction of dams [5], and in Peru smallholder crop farming is instead the predominant driver. Countries lie Argentina, Bolivia, and Paraguay had significant amounts of commercial crop farming These findings are corroborated by the distribution of fields sizes in deforested lands found in the work of Dang *et al*. It is assumed that smaller fields are associated with smallholder crop farming and that larger fields are associated with mechanized commercial farming [4], which Figure 2 shows. The spatial distribution of field sizes illustrated in Figure 2 matches the findings on a national level in Figure 1, notably in Brazil where large fields are likely associated with pastures, and in Peru where small fields are likely associated with smallholding.
 
@@ -38,7 +38,7 @@ __Figure 2__ (Image cropped form original) [4]
 
 Map of field size in regions of deforestation, 2000-2001
 
-![SA field size](C:\Users\sevan\Desktop\SA field size.PNG)
+![](saFieldSize.png)
 
 ​	Looking at the case in Bolivia, much of the issue of deforestation has been from a distinct lack of proper environmental regulations. Soybeans have been a major crop in Bolivia, and its production has been incentivized by the government since the 1980s [8]. The byproduct of this is the expansion of agriculture into forested areas. Large-scale mechanized farms aligned with forest protection boundaries set by the Bolivian government, but unfortunately "compliance  with  land  use  restrictions was considerably lower for small-scale agriculture" [8]. Historically, Bolivia has had issues with land claims and property laws, making it difficult for small-scale farmers to comply with forest regulations.
 
