@@ -28,7 +28,8 @@ April 20, 2020
 
 ​	The second, Bem *et al*, used a few types of Convolutional Neural Networks, comparing them with each other, as well as an RF model, for accuracy and performance. Bem gathered their data from 15-30m Landsat 8 satellite data, observed from 2017 to 2019 in three relatively small locations within the Brazilian Amazon (small due to technical constraints). They then processed their data in Python, using the Keras python library, a wrapper for the Tensorflow library. Those libraries allowed Bem to convert a raster layer with multiple geospatial layers into a multi-dimensional matrix for simplified reading by the CNNs. They established the "ground truth" from data provided by the Brazilian Institute of Space Research (INPE) to assess their CNNs accuracy. Their best CNN model ultimately overestimated deforestation around 2-4%, as illustrated in Figure 1.
 
-![Figure1](C:\Users\sevan\Desktop\Figure1.png)
+
+![](Figure1.png)
 
 ​	
 
@@ -44,15 +45,15 @@ April 20, 2020
 
 ​	Referencing Figure 3, convolutional neural networks broadly work by downsampling the satellite imagery into more compact, meaningful information. For example, a 200x200 pixel raster layer may be shrunk to 100x100 pixels, and that again shrunk to 50x50, preserving significant information while effectively shrinking the dataset to be worked with down to a size which can be interpreted and predicted upon much more efficiently. In an oversimplified example, "significant information" might be pixels above a certain brightness. The simplified data is then upscaled back to the original size, and in the case of the ResUNet, layers further through the chain can "look back" upon previous layers, using skip connections to "remember" certain characteristics of the image that may have been lost in the downsampling process. At the end of the chain, a final prediction is made for deforestation across the raster.
 
-![Figure2](C:\Users\sevan\Desktop\Figure2.jpg)
+![](Figure2.jpg)
 
-![Figure3](C:\Users\sevan\Desktop\Figure3.png)
+![](Figure3.png)
 
 ​	Ultimately, both methods proved to be reliable in predicting deforestation. The CNNs proved to be the most accurate and most efficient methods, achieving much lower rates of error than the random forest method (ref. Figure 1, Figure 4). Aide *et al* did not directly compare their own RFs with any CNN in performance, however they provided accuracy information, 84% on average, suggesting that even outside of Bem *et al*, the Random Forest method is generally less accurate than Convolutional Neural Networks, especially residual ones. 
 
 
 
-![Figure4](C:\Users\sevan\Desktop\Figure4.png)
+![](Figure4.png)
 
 
 
